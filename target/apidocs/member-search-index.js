@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.maven.example","c":"Widget","l":"isEnabled()"},{"p":"com.github.maven.example","c":"Widget","l":"setEnabled(boolean)"},{"p":"com.github.maven.example","c":"Widget","l":"Widget()","url":"%3Cinit%3E()"}]
